@@ -6,8 +6,8 @@ This is server site code which is wriiten in python which takes you to a great e
 
 # Steps To follow to open the website
 
-Download Zip File
-Run fresh_tomato.html to view the website
+1. Download Zip File
+2. Run fresh_tomato.html to view the website
 
 # How to add your favorite movie
 
