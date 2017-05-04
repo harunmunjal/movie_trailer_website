@@ -19,5 +19,5 @@ For Mac --> Click Here
 object_name = media.Movies("movie_title", "movie_storyline", "poster_image", "trailer_youtube") 
 Easy Right!!!
 4. Add your Created objects in list or Array
-movies = [ ob_1 , ob2 ].. 
+movies = [ ob_1 , ob_2 ].. 
 5. That's it!
