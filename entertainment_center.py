@@ -1,7 +1,8 @@
 import media
 import fresh_tomatoes
 
-# arguments like title,poster etc has been passed to a function
+# arguments like title,poster etc has been
+# passed to a function
 toy_story = media.Movie("Toy Story", 
                         "A story of a boy and his toys" + 
                         "that come to life",
@@ -9,7 +10,6 @@ toy_story = media.Movie("Toy Story",
                         "/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=" +
                         "ZZv1vki4ou4")
-# print(toy_story.storyline)
 
 avatar = media.Movie("Avatar", "A marine on an alien planet",
                      "https://upload.wikimedia.org/wikipedia/en" +
@@ -18,7 +18,8 @@ avatar = media.Movie("Avatar", "A marine on an alien planet",
                      "E6VY")
 
 imitation_game = media.Movie("The Imitation Game",
-                             "British mathematician Alan Turing builds a" +
+                             "British mathematician Alan Turing"+ 
+                             "builds a" +
                              "machine, which is a prototype of the modern" +
                              "computer, to decipher German codes.",
                              "http://t0.gstatic.com/images?q=tbn:ANd9GcQQ5v" +
