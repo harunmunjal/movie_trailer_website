@@ -8,7 +8,8 @@ This is server site code which is written in python which takes you to a great e
 
 1. Download Zip File
 2. Unzip it
-2. Run fresh_tomato.html to view the website.
+3. Open entertainment.py using python IDLE.
+4. Press f5 to view the Movie Webpage.
 
 # How to add your favorite movie
 
