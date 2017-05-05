@@ -2,12 +2,13 @@
 
 # Introduction
 
-This is server site code which is wriiten in python which takes you to a great experience of enjoying your favourite Movie trailers.
+This is server site code which is written in python which takes you to a great experience of enjoying your favourite Movie trailers.
 
 # Steps To follow to open the website
 
 1. Download Zip File
-2. Run fresh_tomato.html to view the website
+2. Unzip it
+2. Run fresh_tomato.html to view the website.
 
 # How to add your favorite movie
 
