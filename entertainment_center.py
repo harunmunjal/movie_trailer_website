@@ -19,7 +19,7 @@ avatar = media.Movie("Avatar", "A marine on an alien planet",
 
 imitation_game = media.Movie("The Imitation Game",
                              "British mathematician Alan Turing builds a" +
-                             "machine, which is a prototype of the modern +
+                             "machine, which is a prototype of the modern" +
                              "computer, to decipher German codes.",
                              "http://t0.gstatic.com/images?q=tbn:ANd9GcQQ5v" +
                              "i9xgRkP0nk5aRn8tcGEGRnOQyM-aAS1ldqfQSi_69V1yfU",
@@ -27,8 +27,8 @@ imitation_game = media.Movie("The Imitation Game",
 
 three_idiots = media.Movie("3 Idiots",
                            "In college, Farhan and Raju form a great bond with"+
-                           "Rancho due to his refreshing outlook. Years later, +
-                           "a bet gives them a chance to look for their long-lost +
+                           "Rancho due to his refreshing outlook. Years later," 
+                           "a bet gives them a chance to look for their long-lost" +
                            "friend whose existence seems rather elusive.",
                            "https://upload.wikimedia.org/wikipedia/en/d/df"+
                            "/3_idiots_poster.jpg",
